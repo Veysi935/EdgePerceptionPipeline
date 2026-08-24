@@ -1,0 +1,3 @@
+/workspaces/EdgePerceptionPipeline/CMakeFiles/pipeline.dir
+/workspaces/EdgePerceptionPipeline/CMakeFiles/edit_cache.dir
+/workspaces/EdgePerceptionPipeline/CMakeFiles/rebuild_cache.dir
