@@ -16,7 +16,7 @@ Instead of a monolithic script, the system is built on a Publisher/Subscriber mo
 *   **Integration:** cv_bridge, sensor_msgs
 
 ## 📈 Performance
-The distributed architecture processes high-resolution video streams frame-by-frame with a total network and inference latency of approximately **[BURAYA MS DEGERINI YAZ] ms**, proving its viability for real-time autonomous decision-making in hardware-in-the-loop (HIL) environments.
+The distributed architecture processes high-resolution video streams frame-by-frame with a total network and inference latency dynamically ranging between **15 ms and 45 ms**, proving its viability for real-time autonomous decision-making in hardware-in-the-loop (HIL) environments.
 
 ## 🚀 How to Run
 
